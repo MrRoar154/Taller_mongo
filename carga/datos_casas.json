@@ -1,0 +1,152 @@
+[
+  {
+    "num": 1,
+    "nombre": "CODALTEC",
+    "direccion": "Av. 40 # 24A - 71",
+    "especialidad": "Simulación & Ciberseguridad",
+    "nota": "Web oficial verificada (HTTP 200). Sin og:image; se usa el favicon 192px.",
+    "fuente": "Tabla 1 (taller) + búsqueda web verificada con curl el 2026-10-25",
+    "sitioWeb": "https://codaltec.com/",
+    "imagenUrl": "https://codaltec.com/wp-content/uploads/2024/11/cropped-Favicon-192x192.webp"
+  },
+  {
+    "num": 2,
+    "nombre": "SASOFTCO",
+    "direccion": "Cra 44B # 18-43 Mz D Ca 15",
+    "especialidad": "ERP a Medida, Apps Mobile",
+    "nota": "Web oficial verificada (HTTP 200); imagen = og:image.",
+    "fuente": "Tabla 1 (taller) + búsqueda web verificada con curl el 2026-10-25",
+    "sitioWeb": "https://sasoftco.com/",
+    "imagenUrl": "https://sasoftco.com/wp-content/uploads/2026/09/SASOFTCO-Vertical-principal-fondo-blanco-scaled.png"
+  },
+  {
+    "num": 3,
+    "nombre": "Ideas Software",
+    "direccion": "Villavicencio, Meta",
+    "especialidad": "Sistemas Administrativos",
+    "nota": "Ideas Software Ltda (Villavicencio), verificada HTTP 200. Sin og:image; el favicon declarado da 404, se usa /favicon.ico (200).",
+    "fuente": "Tabla 1 (taller) + búsqueda web verificada con curl el 2026-10-25",
+    "sitioWeb": "https://ideasw.co/",
+    "imagenUrl": "https://ideasw.co/favicon.ico"
+  },
+  {
+    "num": 4,
+    "nombre": "Pegasus Software",
+    "direccion": "Cra 19A # 35A - 54",
+    "especialidad": "Contabilidad & Facturación POS",
+    "nota": "Pegasus Software S.A.S (NIT 901380142-5, misma dirección Cra 19A 35A 54). Su web (Colpegasus) es de gestión académica, no contable/POS. Favicon devuelve 403: imagen null.",
+    "fuente": "Tabla 1 (taller) + búsqueda web verificada con curl el 2026-10-25",
+    "sitioWeb": "https://web.colpegasus.com/",
+    "imagenUrl": null
+  },
+  {
+    "num": 5,
+    "nombre": "Seobyte",
+    "direccion": "Villavicencio, Meta",
+    "especialidad": "Desarrollo Web & E-commerce",
+    "nota": "Web verificada (200), menciona Villavicencio. og:image declarado da 404; se usa favicon.",
+    "fuente": "Tabla 1 (taller) + búsqueda web verificada con curl el 2026-10-25",
+    "sitioWeb": "https://www.seobyte.co/",
+    "imagenUrl": "https://www.seobyte.co/assets/images/seo-favicon.png"
+  },
+  {
+    "num": 6,
+    "nombre": "Software & Apps Col",
+    "direccion": "Cr 19B # 22-03 Macarena",
+    "especialidad": "Apps Móviles & Web",
+    "nota": "Existe en directorios (Software y Apps de Colombia SAS, NIT 900869580-5, misma dirección) pero no se encontró web oficial.",
+    "fuente": "Tabla 1 (taller); búsqueda web sin resultado oficial (2026-10-25)",
+    "sitioWeb": null,
+    "imagenUrl": null
+  },
+  {
+    "num": 7,
+    "nombre": "SPS Solutions",
+    "direccion": "Calle 4A # 17-88 Vizcaya",
+    "especialidad": "Infraestructura TI & Web",
+    "nota": "No se encontró web oficial ni registro verificable.",
+    "fuente": "Tabla 1 (taller); búsqueda web sin resultado oficial (2026-10-25)",
+    "sitioWeb": null,
+    "imagenUrl": null
+  },
+  {
+    "num": 8,
+    "nombre": "Ingesoft Orinoquía",
+    "direccion": "Calle 33A # 38-25 Barzal",
+    "especialidad": "ERP & Nómina Electrónica",
+    "nota": "No se encontró web oficial (ingesoft.com.co existe pero no se pudo vincular a esta empresa).",
+    "fuente": "Tabla 1 (taller); búsqueda web sin resultado oficial (2026-10-25)",
+    "sitioWeb": null,
+    "imagenUrl": null
+  },
+  {
+    "num": 9,
+    "nombre": "Synergia Tech",
+    "direccion": "Cra 39 # 26C-12 7 de Agosto",
+    "especialidad": "E-learning & EdTech",
+    "nota": "No se encontró web oficial.",
+    "fuente": "Tabla 1 (taller); búsqueda web sin resultado oficial (2026-10-25)",
+    "sitioWeb": null,
+    "imagenUrl": null
+  },
+  {
+    "num": 10,
+    "nombre": "SoftLlanos",
+    "direccion": "Calle 15 # 40-08 Camoa",
+    "especialidad": "POS & Inventarios",
+    "nota": "No se encontró web oficial.",
+    "fuente": "Tabla 1 (taller); búsqueda web sin resultado oficial (2026-10-25)",
+    "sitioWeb": null,
+    "imagenUrl": null
+  },
+  {
+    "num": 11,
+    "nombre": "Llanotec",
+    "direccion": "Av. Circunvalar # 35-10",
+    "especialidad": "Software Médico & Salud",
+    "nota": "No se encontró web oficial.",
+    "fuente": "Tabla 1 (taller); búsqueda web sin resultado oficial (2026-10-25)",
+    "sitioWeb": null,
+    "imagenUrl": null
+  },
+  {
+    "num": 12,
+    "nombre": "AgroSoft Meta",
+    "direccion": "Calle 26 Sur # 48-12",
+    "especialidad": "Software Agrícola & Ganadero",
+    "nota": "No se encontró web oficial.",
+    "fuente": "Tabla 1 (taller); búsqueda web sin resultado oficial (2026-10-25)",
+    "sitioWeb": null,
+    "imagenUrl": null
+  },
+  {
+    "num": 13,
+    "nombre": "MetaDevs Lab",
+    "direccion": "Cra 38 # 33B-15 Barzal",
+    "especialidad": "APIs, Cloud & SaaS",
+    "nota": "No se encontró web oficial.",
+    "fuente": "Tabla 1 (taller); búsqueda web sin resultado oficial (2026-10-25)",
+    "sitioWeb": null,
+    "imagenUrl": null
+  },
+  {
+    "num": 14,
+    "nombre": "Global Code",
+    "direccion": "Calle 15 # 37E-22 Esperanza",
+    "especialidad": "E-commerce B2B / B2C",
+    "nota": "No se encontró web oficial.",
+    "fuente": "Tabla 1 (taller); búsqueda web sin resultado oficial (2026-10-25)",
+    "sitioWeb": null,
+    "imagenUrl": null
+  },
+  {
+    "num": 15,
+    "nombre": "InnovaApp Tech",
+    "direccion": "Cra 40 # 20-55 Centauros",
+    "especialidad": "Apps de Logística & Domicilios",
+    "nota": "No se encontró web oficial.",
+    "fuente": "Tabla 1 (taller); búsqueda web sin resultado oficial (2026-10-25)",
+    "sitioWeb": null,
+    "imagenUrl": null
+  }
+]
